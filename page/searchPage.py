@@ -19,3 +19,4 @@ class SearchPage(PageObject):
     # 断言
     search_content_assert = "hello"
     search_content_assert_wrong = "hello12232423423"
+    search_content_assert_wrong = "hello1"
